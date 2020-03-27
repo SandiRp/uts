@@ -19,6 +19,7 @@
     <li><a href="homee.php"><i class="fas fa-qrcode"></i>Home</a></li>
     <li><a href="input.php"><i class="fas fa-plus-circle"></i>Tambah Data</a></li>
     <li><a href="Informasi.php"><i class="fas fa-info"></i>Infromasi</a></li>
+     <li><a href="login.php"><i class="fas fa-sign-out-alt"></i>Sign OUT</a></li>
   </ul>
 </div>
 <section>
